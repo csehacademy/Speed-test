@@ -4,8 +4,8 @@ s = speedtest.Speedtest()
 
 print("Test Basladi")
 
-indirmehizi = s.download() / 1048576
-yuklemehizi = s.upload() / 1048576
+indirmehizi = s.download()
+yuklemehizi = s.upload()
 ping = round(s.results.ping)
 
 print(f"indirme hizi = {indirmehizi:.2f} Mbps  ")
