@@ -22,5 +22,3 @@ pip3 install speedtest-cli
 ```sh
 python3 speed.py
 ```
-
-## License
