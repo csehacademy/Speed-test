@@ -22,6 +22,9 @@ pip3 install speedtest-cli
 ```sh
 python3 speed.py
 ```
+
+## License
+
 MIT
 
 Copyright 2021 csehacademy
